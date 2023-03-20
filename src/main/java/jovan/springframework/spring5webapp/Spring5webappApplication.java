@@ -1,4 +1,4 @@
-package jovann.springframework.spring5webapp;
+package jovan.springframework.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

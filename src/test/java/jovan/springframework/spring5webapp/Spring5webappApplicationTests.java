@@ -1,4 +1,4 @@
-package jovann.springframework.spring5webapp;
+package jovan.springframework.spring5webapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
